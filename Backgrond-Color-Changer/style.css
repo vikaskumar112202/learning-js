@@ -1,0 +1,40 @@
+       body{
+        background-color: black;
+        color: white;
+       }
+       .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 4rem;
+       }
+       .button{
+            height: 5rem;
+            width: 5rem;
+            border: 1.5px solid black;
+        }
+        .main{
+            display: flex;
+            gap: 1.2rem;
+        }
+        .button{
+            display: flex;
+            gap: 2rem;
+        
+        }
+        #grey{
+            background-color: grey;
+        }
+        #green{
+            background-color: green;
+        }
+        #blue{
+            background-color: blue;
+        }
+        #violet{
+            background-color: violet ;
+        }
+        #purple{
+            background-color: purple;
+        }
